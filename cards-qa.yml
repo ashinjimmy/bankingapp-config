@@ -1,0 +1,15 @@
+
+#Build Configuration
+build:
+  version: "3.0"
+
+
+#Contact Details
+cards:
+  message: "Welcome to Cards related QA APIs"
+  contactDetails:
+    name: "Ashin Jimmy - QA Tester"
+    email: "a00315945@student.tus.ie"
+  onCallSupport:
+    -(089) 495-48080
+    

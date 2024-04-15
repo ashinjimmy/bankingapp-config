@@ -1,0 +1,15 @@
+
+#Build Configuration
+build:
+  version: "3.0"
+
+
+#Contact Details
+accounts:
+  message: "Welcome to Loans related Local APIs"
+  contactDetails:
+    name: "Ashin Jimmy -  Developer"
+    email: "a00315945@student.tus.ie"
+  onCallSupport:
+    -(089) 495-48080
+    
