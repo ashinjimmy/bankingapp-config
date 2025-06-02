@@ -1,15 +1,19 @@
 
-#Build Configuration
+spring:
+ config:
+  activate:
+   on-profile: "prod"
+
+
+
 build:
-  version: "3.0"
-
-
-#Contact Details
-loans:
-  message: "Welcome to Accounts related Production APIs"
+  version: "1.0"
+  
+loan:
+  message: "Welcome to Banking App's Loan's Production APIs"
   contactDetails:
-    name: "Ashin Jimmy - Product Support"
-    email: "a00315945@student.tus.ie"
-  onCallSupport:
-    -(089) 495-48080
-    
+    name: "Luke Developer"
+    email: "lk@gmail.com"
+  onCallSupport: 
+   -(353)1900-0123
+   -(353)2800-3343

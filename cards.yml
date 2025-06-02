@@ -1,15 +1,50 @@
 
-#Build Configuration
+
+
+server:
+  port: 9093
+
+spring:
+  application:
+    name: cards
+
+  datasource:
+    url: jdbc:h2:mem:testdb
+    driverClassName: org.h2.Driver
+    username: sa
+    password: 
+  h2:
+    console:
+      enabled: true
+      path: /h2-console
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+        
+        
+        
+  config:
+    import:
+     - application_qa.yml
+     - application_prod.yml
+    
+  profiles:
+   active:          
+     - "prod"
+        
+        
 build:
   version: "3.0"
-
-
-#Contact Details
-cards:
-  message: "Welcome to Cards related Local APIs"
+  
+card:
+  message: "Welcome to Banking App's Card Local APIs"
   contactDetails:
-    name: "Ashin Jimmy -  Developer"
-    email: "a00315945@student.tus.ie"
-  onCallSupport:
-    -(089) 495-48080
-    
+    name: "Daniel Developer"
+    email: "dan@gmail.com"
+  onCallSupport: 
+   -(353)89000123
+   -(353)88003343

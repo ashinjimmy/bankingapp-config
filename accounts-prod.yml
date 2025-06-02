@@ -1,15 +1,14 @@
 
-#Build Configuration
+
+
 build:
-  version: "3.0"
-
-
-#Contact Details
+  version: "1.0"
+  
 accounts:
-  message: "Welcome to Accounts related product APIs"
+  message: "Welcome to Banking App's Accounts Production APIs"
   contactDetails:
-    name: "Ashin Jimmy - Product Support"
-    email: "a00315945@student.tus.ie"
-  onCallSupport:
-    -(089) 495-48080
-    
+    name: "Tina Developer"
+    email: "tin@gmail.com"
+  onCallSupport: 
+   -(353)1900-0123
+   -(353)2800-3343

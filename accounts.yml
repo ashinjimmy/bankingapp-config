@@ -1,15 +1,14 @@
 
-#Build Configuration
+
+            
 build:
-  version: "5.0"
-
-
-#Contact Details
+  version: "3.0"
+  
 accounts:
-  message: "Welcome to Accounts related loacal APIs"
+  message: "Welcome to Banking App's Accounts Local APIs"
   contactDetails:
-    name: "Ashin Jimmy - Developer"
-    email: "a00315945@student.tus.ie"
-  onCallSupport:
-    -(089) 495-48080
-    
+    name: "Ashin Developer"
+    email: "xyz@gmail.com"
+  onCallSupport: 
+   -(353)89000123
+   -(353)88003343

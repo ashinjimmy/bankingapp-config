@@ -1,15 +1,15 @@
 
-#Build Configuration
+
+
+
 build:
-  version: "3.0"
-
-
-#Contact Details
+  version: "2.0"
+  
 accounts:
-  message: "Welcome to Accounts related QA APIs"
+  message: "Welcome to Banking App's Accounts QA APIs"
   contactDetails:
-    name: "Ashin Jimmy - QA Tester"
-    email: "a00315945@student.tus.ie"
-  onCallSupport:
-    -(089) 495-48080
-    
+    name: "Jordan Developer"
+    email: "jord@gmail.com"
+  onCallSupport: 
+   -(353)3900-0123
+   -(353)6800-3343

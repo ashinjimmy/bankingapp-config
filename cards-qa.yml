@@ -1,15 +1,19 @@
 
-#Build Configuration
+spring:
+ config:
+  activate:
+   on-profile: "qa"
+
+
+
 build:
-  version: "3.0"
-
-
-#Contact Details
-cards:
-  message: "Welcome to Cards related QA APIs"
+  version: "2.0"
+  
+card:
+  message: "Welcome to Banking App's Cards QA APIs"
   contactDetails:
-    name: "Ashin Jimmy - QA Tester"
-    email: "a00315945@student.tus.ie"
-  onCallSupport:
-    -(089) 495-48080
-    
+    name: "Oscar Developer"
+    email: "osci@gmail.com"
+  onCallSupport: 
+   -(353)3900-0123
+   -(353)6800-3343
