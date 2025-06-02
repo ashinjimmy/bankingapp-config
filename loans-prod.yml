@@ -5,7 +5,7 @@ build:
 
 
 #Contact Details
-accounts:
+loans:
   message: "Welcome to Accounts related Production APIs"
   contactDetails:
     name: "Ashin Jimmy - Product Support"
