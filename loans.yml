@@ -5,7 +5,7 @@ build:
 
 
 #Contact Details
-accounts:
+loans:
   message: "Welcome to Loans related Local APIs"
   contactDetails:
     name: "Ashin Jimmy -  Developer"
