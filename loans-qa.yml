@@ -5,7 +5,7 @@ build:
 
 
 #Contact Details
-accounts:
+loans:
   message: "Welcome to Loans related QA APIs"
   contactDetails:
     name: "Ashin Jimmy - QA Tester"
