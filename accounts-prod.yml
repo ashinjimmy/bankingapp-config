@@ -5,7 +5,7 @@ build:
   version: "1.0"
   
 accounts:
-  message: "Welcome to Banking App Accounts Webhook APIs"
+  message: "Welcome to Banking App Accounts Productions APIs"
   contactDetails:
     name: "Tina Developer"
     email: "tin@gmail.com"
