@@ -4,7 +4,7 @@ build:
   version: "1.0"
   
 card:
-  message: "Welcome to Banking App's Card Production APIs"
+  message: "Welcome to Banking App Cards Production APIs"
   contactDetails:
     name: "Cathrin Developer"
     email: "cat@gmail.com"
